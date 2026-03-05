@@ -73,8 +73,6 @@ Smart factory and IIoT systems
 GitHub:
 https://github.com/mohedhass
 
-LinkedIn:
-(Add your LinkedIn)
 
-Location:
-Available for UAE engineering roles
+
+
